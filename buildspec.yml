@@ -24,4 +24,3 @@ phases:
       - docker push $REPOSITORY_URI:$IMAGE_TAG
       - echo "Docker image pushed successfully!"
       - echo "Image: $REPOSITORY_URI:$IMAGE_TAG"
-
